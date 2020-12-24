@@ -1,0 +1,2 @@
+D:\NMLT_C01\Debug\NMLT_C01.exe
+D:\NMLT_C01\Debug\NMLT_C01.pdb
