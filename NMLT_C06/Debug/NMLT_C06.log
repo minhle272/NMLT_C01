@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\NMLT_C06\Source.cpp(3,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\NMLT_C06\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'float'
+D:\NMLT_C06\Source.cpp(6,24): warning C4101: 'dientich': unreferenced local variable
+D:\NMLT_C06\Source.cpp(6,17): warning C4101: 'chuvi': unreferenced local variable
+  NMLT_C06.vcxproj -> D:\NMLT_C05\Debug\NMLT_C06.exe
